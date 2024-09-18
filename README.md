@@ -1,3 +1,3 @@
-COMP 576 - Introduction to DL
+# **COMP 576 - Introduction to DL**
 
-This is my repo.
+This is my official repo for the course.
